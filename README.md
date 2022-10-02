@@ -2,8 +2,8 @@
 
 
 
-[] - Hello Word;
-[] - Adicionar Nova Rota (Controller);
+<p>[] - Hello Word;</p>
+<p>[] - Adicionar Nova Rota (Controller);</p>
 [] - MVC;
 [] - Teste Básico;
 [] - HOT Reload;
