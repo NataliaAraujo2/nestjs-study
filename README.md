@@ -1,4 +1,4 @@
-<img src=img-readme.jpeg />
+<img align="center" src=img-readme.jpeg />
 
 <h1 align="center">Objetivos a cumprir com o Nestjs:</h1>
 
